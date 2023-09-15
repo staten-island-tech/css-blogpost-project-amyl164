@@ -1,5 +1,6 @@
 body { 
   background-color: aliceblue;
+  font-family: 'Merriweather', serif; 
 }
 .bucket {
   background-color: whitesmoke;
@@ -24,23 +25,11 @@ body {
 }
 .siths
 {
-  margin-bottom: -200px;
+  margin-bottom: -190px;
  margin-left: 450px;
  
 }
 .siths2 {
-  margin-bottom: -170px;
-  margin-left: 1222px;
-}
-.siths3 {
- margin-bottom: -700px;
-  margin-right: 1000px;
-}
-.siths4 {
-  margin-bottom: -1400px;
-  margin-left:50px ;
-}
-.siths5 { 
-  margin-left: 100px;
-  margin-top: -500px;
+  margin-bottom: -190px;
+  margin-left: 1200px;
 }
