@@ -4,7 +4,7 @@ body {
 }
 .bucket {
   background-color: whitesmoke;
-  margin: 40px auto;
+  margin: 100px auto;
   text-align: center;
   padding-top: 2%;
   padding-bottom: 2%;
@@ -25,11 +25,17 @@ body {
 }
 .siths
 {
-  margin-bottom: -190px;
- margin-left: 450px;
+  position: absolute;
+  top: 35px;
+  left: 450px;
  
 }
 .siths2 {
-  margin-bottom: -190px;
-  margin-left: 1200px;
+ position: absolute;
+ top: 45px;
+ right: 470px;
+}
+
+#mop{
+ font-style: italic;
 }
